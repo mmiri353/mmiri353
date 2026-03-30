@@ -89,6 +89,6 @@
 
 <p align="center">
   <a href="https://github.com/mmiri353">GitHub</a> •
-  <a href="https://www.linkedin.com/">LinkedIn</a> •
-  <a href="mailto:your@email.com">Email</a>
+  <a href="www.linkedin.com/in/mohammad-miri-4085202aa">LinkedIn</a> •
+  <a href="mailto:mmiri849@gmail.com">Email</a>
 </p>
