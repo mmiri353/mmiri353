@@ -35,60 +35,25 @@
 
 ---
 
-## ⚡ Tech Stack & Tools
+## 🧰 Tech Stack & Tools
 
-### 👨‍💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,php" />
-</p>
-
-### 🎨 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
-</p>
-
-### 🛠️ Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,laravel,fastapi" />
-</p>
-
-### 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
-</p>
-
-### 🤖 AI / Data / Automation
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-0d1117?style=for-the-badge&logo=tensorflow&logoColor=orange" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-0d1117?style=for-the-badge&logo=pytorch&logoColor=red" />
-  <img src="https://img.shields.io/badge/OCR-0d1117?style=for-the-badge&logo=googledocs&logoColor=4fc3f7" />
-  <img src="https://img.shields.io/badge/Automation-0d1117?style=for-the-badge&logo=zapier&logoColor=ffb300" />
-  <img src="https://img.shields.io/badge/Data%20Processing-0d1117?style=for-the-badge&logo=apachespark&logoColor=e25a1c" />
-</p>
-
-### ☁️ DevOps / Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,vscode,postman" />
-</p>
-
-### 🧩 Other Tools & Platforms
-<p align="center">
-  <img src="https://img.shields.io/badge/REST%20APIs-1f2937?style=for-the-badge&logo=fastapi&logoColor=00c7b7" />
-  <img src="https://img.shields.io/badge/System%20Design-1f2937?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-1f2937?style=for-the-badge&logo=leetcode&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-1f2937?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/API%20Integration-1f2937?style=for-the-badge&logo=cloudflare&logoColor=f38020" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,react,nodejs,php,laravel,mysql,postgres,mongodb,docker,kubernetes,linux,git,github,postman,html,css,bootstrap,vscode&perline=6" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Automation-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OCR-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST%20APIs-1f6feb?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-8b5cf6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OCR-4b5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DOCUMENT%20EXTRACTION%20%26%20VALIDATION-7c3aed?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/KYC%20%2F%20AML-6b7280?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SUSPICIOUS%20TRANSFER%20DETECTION-0ea5e9?style=for-the-badge" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/BACKEND-6b7280?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SCALABLE%20REST%20APIS-84cc16?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AUTOMATION-f59e0b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MACHINE%20LEARNING-2563eb?style=for-the-badge" />
+</p>
 ---
 
 ## 🚀 Featured Projects
