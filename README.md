@@ -1,14 +1,14 @@
 <h1 align="center">Hey, I'm Mohammad Miri 👋</h1>
-<h3 align="center">AI Engineer • Full-Stack Developer , ML, and Intelligent Systems</h3>
+<h3 align="center">AI Engineer • Full-Stack Developer • ML and Intelligent Systems</h3>
 
 <p align="center">
   <a href="https://github.com/mmiri353">
     <img src="https://img.shields.io/badge/GitHub-mmiri353-0d1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/mohammad-miri-4085202aa/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:mmiri849@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/mmiri353?tab=repositories">
@@ -17,11 +17,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=950&lines=AI+Engineer;Full-Stack+Developer;Backend+%26+Intelligent+Systems;Machine+Learning+%7C+OCR+%7C+Automation;Building+Clean+and+Scalable+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=950&lines=AI+Engineer;Full-Stack+Developer;ML+%7C+OCR+%7C+Automation;Building+Clean+and+Scalable+Solutions" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:38bdf8&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20•%20Backend%20•%20Full-Stack%20•%20ML&descAlignY=58&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:38bdf8&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20•%20Full-Stack%20•%20ML&descAlignY=58&descAlign=50" width="100%" />
 </p>
 
 ---
@@ -55,6 +55,7 @@
   <img src="https://img.shields.io/badge/MACHINE%20LEARNING-2563eb?style=for-the-badge" />
 </p>
 
+---
 
 ## 🚀 Featured Projects
 
@@ -90,11 +91,7 @@ An ecommerce application built with PHP, focused on application flow and backend
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmiri353&theme=tokyonight&hide_border=true&border_radius=12" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mmiri353&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+  <img src="https://streak-stats.demolab.com?user=mmiri353&theme=tokyonight&hide_border=true&border_radius=12" />
 </p>
 
 ---
@@ -117,7 +114,7 @@ An ecommerce application built with PHP, focused on application flow and backend
   <a href="https://github.com/mmiri353">
     <img src="https://img.shields.io/badge/GitHub-mmiri353-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/mohammad-miri-4085202aa">
+  <a href="https://www.linkedin.com/in/mohammad-miri-4085202aa/">
     <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mmiri849@gmail.com">
