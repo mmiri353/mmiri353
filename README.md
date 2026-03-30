@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Mohammad Miri 👋</h1>
-<h3 align="center">AI Engineer • Full-Stack Developer • Backend, ML, and Intelligent Systems</h3>
+<h3 align="center">AI Engineer • Full-Stack Developer , ML, and Intelligent Systems</h3>
 
 <p align="center">
   <a href="https://github.com/mmiri353">
